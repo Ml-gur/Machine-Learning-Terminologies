@@ -23,3 +23,17 @@
 		- if the variables are quantitative then the modeling task is refered to as #Regression
 		- while if te target is categorical the modeling is refered to as #classification
 		
+
+# Modeling Structure
+			
+ # Linear Regression
+- Linear Regression is used to understand the relationship between input/predictors and output/targets numerical variables.
+	- since it is a # Model, the model assumes that there is a linear relationship between a given input variable (x) and a single target variable (y). 
+	- the target variable (y) is calculated from the Linear Combination of input variable (x). 
+- Types of linear regression
+
+- Simple Linear Regression - this is a type of regression when there is a single predictor variable (x)
+- Multiple regression - this is when there are multiple predictor variables (x)
+	
+- it is both a statistical and machine learning algorithm
+- 
